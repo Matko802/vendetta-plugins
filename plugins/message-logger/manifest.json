@@ -1,10 +1,10 @@
 {
-  "name": "Message Logger",
+  "name": "Message Edit Logger",
   "description": "Temporarily logs deletions and edits for moderation purposes. Forked from redstonekasi.",
   "authors": [
     {
       "name": "Matko802",
-      "id": "265064055490871297"
+      "id": "1052216205542428698"
     }
   ],
   "main": "src/index.ts",
