@@ -24,3 +24,7 @@ Allows you to install plugins directly from a URL's action sheet.
 ### No typing
 `https://redstonekasi.github.io/vendetta-plugins/no-typing`  
 Hides your typing status from others.
+
+
+
+https://matko802.github.io/vendetta-plugins/message-logger/
