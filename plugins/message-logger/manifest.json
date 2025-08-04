@@ -1,9 +1,9 @@
 {
   "name": "Message Logger",
-  "description": "Temporarily logs deletions for moderation purposes",
+  "description": "Temporarily logs deletions and edits for moderation purposes. Forked from redstonekasi.",
   "authors": [
     {
-      "name": "redstonekasi",
+      "name": "Matko802",
       "id": "265064055490871297"
     }
   ],
